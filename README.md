@@ -23,7 +23,7 @@ Make sure you have Node.js and npm installed on your machine. You can download t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone git@github.com:Navnit73/-task-manager.git
 ```
 
 2. Navigate to the project directory:
